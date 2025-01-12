@@ -1,6 +1,6 @@
-# Main Repository
+# SOS Repository
 
-Bem-vindo ao repositório **main**! Aqui está o ponto central para organizar, desenvolver e compartilhar projetos e ideias.
+Bem-vindo ao repositório **SOS**! Aqui está o ponto central para organizar, desenvolver e compartilhar projetos e ideias.
 
 ## 📖 Sobre o Projeto
 
